@@ -1,3 +1,3 @@
 # Musicnary
 
-tl;dr scuffed gartic phone
+A gartic phone (music version)
